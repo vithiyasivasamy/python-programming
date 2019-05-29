@@ -1,7 +1,7 @@
 nu=int(input())
 if(nu>0):
-  print("positive")
+  print("Positive")
 elif(nu<0):
-  print("negative")
+  print("Negative")
 else:
-  print("zero")
+  print("Zero")
