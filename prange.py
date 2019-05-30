@@ -8,4 +8,4 @@ for i in range(n,k):
             continue
     if c==2:
         print(i,end=" ")
-print(" ")
+
