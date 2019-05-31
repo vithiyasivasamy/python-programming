@@ -3,7 +3,7 @@ for i in range(h,k):
     o=len(str(i))
     sum=0
     r=i
-    while(t>0):
+    while(r>0):
        di=r% 10
        sum+=di**o
        r//= 10
