@@ -1,11 +1,11 @@
-h,j=list(map(int,input().split()))
-for i in range(h,j):
+h,k=list(map(int,input().split()))
+for i in range(h,k):
     o=len(str(i))
     sum=0
-    t=i
+    r=i
     while(t>0):
-       di=t% 10
+       di=r% 10
        sum+=di**o
-       t//= 10
+       r//= 10
     if i==sum:
         print(i,end=" ")
