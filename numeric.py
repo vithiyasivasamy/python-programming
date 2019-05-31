@@ -7,4 +7,4 @@ for i in str:
 if(count==0):
   print("yes")
 else:
-  print("no")
+  print("No")
