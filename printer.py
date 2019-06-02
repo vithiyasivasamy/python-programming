@@ -1,0 +1,2 @@
+mnop=input()
+print(mnop)
