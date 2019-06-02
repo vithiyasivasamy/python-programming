@@ -1,5 +1,5 @@
-n=int(input())
-if(n%2==0):
-    print(n)
+mno=int(input())
+if(mno%2==0):
+    print(mno)
 else:
-    print(n-1)
+    print(mno-1)
