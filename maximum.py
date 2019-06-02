@@ -1,2 +1,2 @@
-n=list(map(int,input().split()))
-print(max(n))
+nuuu=list(map(int,input().split()))
+print(max(nuuu))
