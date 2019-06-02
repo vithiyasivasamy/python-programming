@@ -1,4 +1,10 @@
-nim=list(input())
-for i in nim:
-    if i.isdigit():
-        print(i,end="")
+nm=list(input())
+l=[]
+for i in nm:
+    if i.isnumeric():
+        l.append(i)
+if l==[]:
+    print()
+else:
+    for i in l:
+        print(i,end='')
