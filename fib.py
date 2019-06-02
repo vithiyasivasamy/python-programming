@@ -7,5 +7,5 @@ def fib(n):
     re=fib(n-1)+fib(n-2)
   return re
 n=int(input())
-for i in range(n+1):
-  print(fib(i))
+for i in range(1,n+1):
+  print(fib(i),end=" ")
