@@ -1,7 +1,5 @@
 ni,m=list(map(int,input().split()))
-p=ni*m
-l=p*0.5
-if(l**2==p):
+if(ni*m/ni==m):
     print("yes")
 else:
     print("no")
