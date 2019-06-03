@@ -1,2 +1,2 @@
-n=int(input())
-print(273+n)
+nmp=int(input())
+print(273+nmp)
