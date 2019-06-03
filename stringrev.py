@@ -1,2 +1,2 @@
-str12=input()
-print(str12[::-1])
+vit=input()
+print(vit[::-1])
