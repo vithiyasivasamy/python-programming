@@ -1,3 +1,4 @@
+n=int(input())
 lis=list(map(int,input().split()))
 m=sorted(lis)
 l=len(lis)
