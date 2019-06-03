@@ -1,0 +1,6 @@
+l,m,n=list(map(int,input().split()))
+x=int(l)
+y=int(m)
+z=int(n)
+print(2*((x*y)+(y*z)+(z*x)),end=" ")
+print(x*y*z)
