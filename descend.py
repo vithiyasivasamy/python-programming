@@ -1,0 +1,5 @@
+sui,b=list(map(str,input().split()))
+lis=list(map(int,input().split()))
+d=sorted(lis)
+b=int(b)
+print(d[b-1])
